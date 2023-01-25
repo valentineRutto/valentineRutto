@@ -3,7 +3,9 @@ I am **ValentineRutto** ,  a Native Android Engineer from Nairobi, Kenya. I am i
 
 - 📫 How to reach me:  [Twitter](https://twitter.com/valentinerutto)  , [LinkedIn](www.linkedin.com/in/valentinerutto)
 
-- Tech Talks: [SpeakerDeck](https://medium.com/@valentinerutto)
+- Tech Talks: [SpeakerDeck](https://speakerdeck.com/valentinerutto)
+ 
+- Technical Blog: [Medium](https://medium.com/@valentinerutto)
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I share #TechOpportunities on [Twitter](https://twitter.com/valentinerutto) 
