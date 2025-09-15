@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **ValentineRutto** ,  a Native Android Engineer from Nairobi, Kenya. I am interested in working on socially and developer impactful projects.
+I am **ValentineRutto** ,  a Senior Mobile Applications  Engineer from Nairobi, Kenya. I am interested in working on socially and developer impactful projects.
 
 - 📫 How to reach me:  [All Links](https://linktr.ee/ValentineRutto)  
 
