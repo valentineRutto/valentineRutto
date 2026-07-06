@@ -6,6 +6,7 @@ I am **ValentineRutto** ,  a Senior Mobile Applications  Engineer. I am interest
 - Tech Talks: [SpeakerDeck](https://speakerdeck.com/valentinerutto)
  
 - Technical Blog: [Medium](https://medium.com/@valentinerutto)
+  
+-  Portfolio: [portfolio-website](https://valentinerutto.github.io)
 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I share #TechOpportunities on [X](https://twitter.com/valentinerutto) 
+
