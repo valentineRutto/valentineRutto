@@ -31,13 +31,23 @@ I specialize in **Kotlin, Android architecture, offline-first applications, and 
 
 ## 🧠 Featured Projects
 
+### [OrbMotionKMPLibrary](https://github.com/valentineRutto/OrbMotionKMPLibrary)
+Kotlin Multiplatform library project showcasing reusable library development and cross-platform engineering.
+
+**Tech:** Kotlin, Kotlin Multiplatform
+
 ### [DivineDataGPT](https://github.com/valentineRutto/DivineDataGPT)
 Native Android project exploring on-device AI for emotion analysis and conversational experiences.
+
+**Tech:** Kotlin, Android, On-device AI
 
 ### [WriteFlow](https://github.com/valentineRutto/WriteFlow)
 Flutter application exploring handwriting-to-text conversion using on-device TensorFlow Lite and OCR.
 
-**Currently exploring:** Extending mobile AI projects with Python backends, LLM-powered features, retrieval-augmented generation, and evaluation workflows.
+**Tech:** Flutter, TensorFlow Lite, OCR
+
+### 🔬 Currently Exploring
+Building production-oriented Applied AI and LLM applications, including Python backends, retrieval-augmented generation (RAG), AI agents, and on-device intelligence.
 
 ## 💼 Professional Experience
 
