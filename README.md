@@ -2,7 +2,7 @@
 
 # Hi, I'm Valentine Rutto 👋
 
-### Senior Android Engineer | Mobile AI | Exploring Applied AI & LLM Engineering
+### Senior Android Engineer | Mobile AI | Exploring Applied AI Engineering
 
 I'm a software engineer with **8+ years of experience** building production mobile applications across fintech, logistics, retail, and field operations.
 
@@ -25,7 +25,7 @@ I specialize in **Kotlin, Android architecture, offline-first applications, and 
 - Python, FastAPI, RAG, and AI workflows (learning and building)
 
 **Engineering Practices**
-- REST APIs, CI/CD, automated testing
+- REST APIs, CI/CD, automated testing, SOLID
 - GitHub Actions, Git, Gradle
 - AI-assisted development with Codex, Claude, and GitHub Copilot
 
